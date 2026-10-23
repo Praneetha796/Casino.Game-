@@ -45,9 +45,9 @@ The application tracks:
 - Achievements Earned
 ##  How to Run
 Clone the Repository
-git clone https://github.com/yourusername/Quantum-casino.git
+git clone (https://github.com/Praneetha796/Casino.Game-.git)
 Navigate to the project folder
-cd Quantum-casino
+cd casino.game
 Install dependencies
 pip install -r requirements.txt
 Run the Application
