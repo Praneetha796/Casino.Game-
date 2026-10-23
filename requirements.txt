@@ -2,7 +2,6 @@ altair==6.1.0
 anyio==4.13.0
 attrs==26.1.0
 blinker==1.9.0
-bqphy @ file:///C:/Users/prane/OneDrive/Documenten/Sphere_Optimization_Project/bqphy-2.1.0-cp312-cp312-win_amd64.whl.whl#sha256=32459a0fe84aa9ba0510ad32a4b0e1653aa767cea2a8f3cab639eea4687bbc31
 cachetools==7.1.4
 certifi==2026.5.20
 charset-normalizer==3.4.7
